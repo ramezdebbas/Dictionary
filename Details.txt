@@ -1,0 +1,7 @@
+Dictionary:
+
+Your own personal dictionary.
+
+Features:
+
+-You can use the app while snapping.
